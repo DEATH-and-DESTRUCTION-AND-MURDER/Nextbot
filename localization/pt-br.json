@@ -1,0 +1,19 @@
+{
+    "only_guild": "Este comando não funciona fora de um servidor!",
+    "no_voice": "Não estou conectado a nenhum canal de voz ¯\\_(ツ)_/¯",
+    "uncaught_error": "Ocorreu um erro inesperado. Esta ocorrência foi automaticamente reportada ao seu mantenedor.",
+    "interaction_acknowledged": "Interação já reconhecida",
+    "no_permission.user": "Você não tem permissão para executar esse comando!",
+    "no_permission": "Não tenho permissão para fazer isso!",
+    "logged_in": "Logado como {}{}{}",
+    "running_mode": "Executando no modo {}{}{}",
+    "OS": "SO",
+    "CPU": "CPU",
+    "python_version": "Versão do Python",
+    "discord_py.version": "Versão do Discord.py",
+    "no_mode": "Você esqueceu de definir o modo de execução, animal!",
+    "missing_module": "Os arquivos do módulo {} estão ausentes!",
+    "loading_modules": "Carregando módulos...",
+    "loaded_modules": "Todos os módulos foram carregados, iniciando o Xyn!",
+    "reloaded_modules": "Todos os módulos foram recarregados!"
+}

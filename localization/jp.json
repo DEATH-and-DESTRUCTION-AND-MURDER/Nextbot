@@ -1,0 +1,20 @@
+{
+    "only_guild": "このコマンドはギルドの外では機能しません！",
+    "no_voice": "私はどのボイスチャンネルにも接続されていません ¯\\_(ツ)_/¯",
+    "uncaught_error": "未捕捉のエラーが発生しました。この事象は自動的に管理者に報告されました。",
+    "interaction_acknowledged": "すでに認識されたインタラクションです。",
+    "no_permission.user": "そのコマンドを実行する権限がありません！",
+    "no_permission": "それを行う権限がありません！",
+    "logged_in": "{}{}{}としてログイン済み",
+    "running_mode": "{}{}{}モードで実行中",
+    "OS": "OS",
+    "CPU": "CPU",
+    "python_version": "Pythonバージョン",
+    "discord_py.version": "Discord.pyバージョン",
+    "no_mode": "ランタイムモードを設定し忘れています、バカ",
+    "missing_module": "モジュール{}のファイルが見当たりません！",
+    "loading_modules": "モジュールを読み込んでいます...",
+    "loaded_modules": "すべてのモジュールが読み込まれました、Xynを開始します！",
+    "reloaded_modules": "すべてのモジュールがリロードされました！"
+  }
+  
